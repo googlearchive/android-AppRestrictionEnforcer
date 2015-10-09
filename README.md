@@ -8,8 +8,8 @@ Use AppRestrictionSchema sample as a app with available restrictions.
 Pre-requisites
 --------------
 
-- Android SDK v21
-- Android Build Tools v23.0.0
+- Android SDK v23
+- Android Build Tools v23.0.1
 - Android Support Repository
 
 Getting Started
