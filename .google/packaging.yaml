@@ -6,8 +6,14 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [Admin]
+categories:   [Device Admin]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-AppRestrictionEnforcer
+level:        ADVANCED
+icon:         screenshots/big_icon.png
+apiRefs:
+    - android:android.app.admin.DevicePolicyManager
+    - android:android.content.RestrictionEntry
+    - android:android.content.RestrictionsManager
 license: apache2
